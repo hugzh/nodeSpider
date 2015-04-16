@@ -1,0 +1,17 @@
+{
+  "name": "task1",
+  "version": "0.0.0",
+  "description": "get news from 163.com",
+  "main": "app.js",
+  "dependencies": {
+    "express": "~4.12.3",
+    "cheerio": "~0.19.0",
+    "iconv-lite": "~0.4.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "guozhihu",
+  "license": "BSD-2-Clause"
+}
